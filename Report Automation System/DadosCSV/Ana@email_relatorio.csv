@@ -1,0 +1,3 @@
+Atendente,ID da demanda,Data,Início do atendimento,Final do atendimento,Tipo do atendimento,e-mail gestor,Tempo,Demandas,Demandas abertas
+Rodrigo,16589,2024-06-15,1900-01-01 12:24:35,,presencial,Ana@email,,2,1
+Rodrigo,12588,2024-06-17,1900-01-01 11:23:23,1900-01-01 12:02:05,presencial,Ana@email,0 days 00:38:42,2,1
